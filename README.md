@@ -58,17 +58,10 @@
 
 🚧 **Actuellement en développement :**
 
-- 🔥 **Nom du projet 1**  
-  👉 Description courte et impactante  
-  🔧 Tech : React, Node.js, MongoDB
-
-- 🚀 **Nom du projet 2**  
-  👉 Objectif du projet  
-  🔧 Tech : Python, API, Docker
-
-- 🌍 **Nom du projet 3**  
-  👉 Valeur ajoutée pour l’utilisateur  
-  🔧 Tech : HTML, CSS, JavaScript
+- 🔥 **Prtt-web-site**  
+  👉 Refonte du site web du club de tennis de table de Perpignan Roussillon Tennis de Table.
+  Développement complet des fonctionnalité d'inscription aux tournois et aux partages d'évènements & photos
+  🔧 Tech : Angular
 
 ---
 
