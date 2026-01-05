@@ -47,6 +47,10 @@
 
 ---
 
+### 🔹 En train d'apprendre
+
+---
+
 ## 📌 Projets en cours
 
 🚧 **Actuellement en développement :**
