@@ -39,19 +39,25 @@
 
 ### 🔹 Frameworks & Librairies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,bootstrap" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,bootstrap" />
+  </a>
 </p>
 
 ### 🔹 Bases de données & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github" />
+  </a>
 </p>
 
 ---
 
 ## 📖 En train d'apprendre
 <p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,symfony" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=kubernetes,symfony" />
+  </a>
 </p>
     
 ---
@@ -76,8 +82,10 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-ecru-eight-42.vercel.app/api?username=lucas-josephh&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats-ecru-eight-42.vercel.app/api/top-langs/?username=lucas-josephh&layout=compact&theme=tokyonight" />
+  <a href="#">
+    <img src="https://github-readme-stats-ecru-eight-42.vercel.app/api?username=lucas-josephh&show_icons=true&theme=tokyonight" height="160" />
+    <img src="https://github-readme-stats-ecru-eight-42.vercel.app/api/top-langs/?username=lucas-josephh&layout=compact&theme=tokyonight" />
+  </a>
 </p>
 
 ---
@@ -105,5 +113,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  </a>
 </p>
