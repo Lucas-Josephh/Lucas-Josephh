@@ -72,19 +72,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-josephh&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-josephh&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-josephh&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Me contacter
 
 <p align="center">
