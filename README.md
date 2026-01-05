@@ -32,7 +32,7 @@
 
 ### 🔹 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,php,java,cpp,c />
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,php,java,cpp,c" />
 </p>
 
 ### 🔹 Frameworks & Librairies
@@ -49,7 +49,7 @@
 
 ## 📖 En train d'apprendre
 <p>
-  <img src="https://skillicons.dev/icons?i=kubernate,symphonie />
+  <img src="https://skillicons.dev/icons?i=kubernate,symphonie" />
 </p>
     
 ---
