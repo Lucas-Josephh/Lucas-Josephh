@@ -89,19 +89,19 @@
 
 <p align="center">
   <a href="mailto:tonmail@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://discordapp.com/users/123456789012345678">
-    <img src="https://img.shields.io/badge/Discord-tonpseudo-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/ton-profil-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Profil-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://ton-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Site-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
