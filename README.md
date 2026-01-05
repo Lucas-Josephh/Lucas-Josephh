@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Développeur+passionné;Créateur+de+projets+concrets;Toujours+en+apprentissage;Disponible+pour+opportunités" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Développeur+passionné;Créateur+de+projets+concrets;Toujours+en+apprentissage" />
 </p>
 
 ---
