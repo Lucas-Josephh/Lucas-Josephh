@@ -56,7 +56,7 @@
 ## 📖 En train d'apprendre
 <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=kubernetes,symfony" />
+    <img src="https://skillicons.dev/icons?i=symfony" />
   </a>
 </p>
     
