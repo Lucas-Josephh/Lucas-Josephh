@@ -74,12 +74,12 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-ecru-eight-42.vercel.app/api?username=lucas-josephh&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats-ecru-eight-42.vercel.app/?user=lucas-josephh&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-ecru-eight-42.vercel.app/api/top-langs/?username=lucas-josephh&layout=compact&theme=tokyonight" />
 </p>
 
 ---
