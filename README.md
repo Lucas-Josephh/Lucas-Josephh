@@ -32,22 +32,22 @@
 
 ### 🔹 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c++,c,angular,java,php" />
 </p>
 
 ### 🔹 Frameworks & Librairies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
 </p>
 
 ### 🔹 Bases de données & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github" />
 </p>
 
 ---
 
-### 🔹 En train d'apprendre
+## 📖 En train d'apprendre
 
 ---
 
