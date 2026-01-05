@@ -88,14 +88,20 @@
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="mailto:lucasjo661@gmail.com">
-    <img src="https://img.shields.io/badge/Email-TON_EMAIL-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:tonmail@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/zarco70">
-    <img src="https://img.shields.io/badge/Discord-TON_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
+  <a href="https://discordapp.com/users/123456789012345678">
+    <img src="https://img.shields.io/badge/Discord-tonpseudo-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/lucas-joseph-8b8472374">
-    <img src="https://img.shields.io/badge/LinkedIn-Profil-blue?style=for-the-badge&logo=linkedin" />
+
+  <a href="https://www.linkedin.com/in/ton-profil-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Profil-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://ton-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Site-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
