@@ -88,13 +88,13 @@
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="mailto:TON_EMAIL">
+  <a href="mailto:lucasjo661@gmail.com">
     <img src="https://img.shields.io/badge/Email-TON_EMAIL-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://discordapp.com/users/TON_ID_DISCORD">
+  <a href="https://discordapp.com/users/zarco70">
     <img src="https://img.shields.io/badge/Discord-TON_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/TON_LINKEDIN">
+  <a href="https://www.linkedin.com/in/lucas-joseph-8b8472374">
     <img src="https://img.shields.io/badge/LinkedIn-Profil-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
