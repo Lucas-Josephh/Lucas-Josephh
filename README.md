@@ -32,7 +32,9 @@
 
 ### 🔹 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,c" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,c" />
+  </a>
 </p>
 
 ### 🔹 Frameworks & Librairies
