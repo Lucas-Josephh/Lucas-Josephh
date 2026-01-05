@@ -94,16 +94,6 @@
 
 ---
 
-## ✨ Pourquoi me recruter ?
-
-✔️ Autonome & rigoureux  
-✔️ Code propre et maintenable  
-✔️ Apprentissage rapide  
-✔️ Motivation & sérieux  
-✔️ Orienté résultats
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
