@@ -100,7 +100,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://ton-portfolio.com">
+  <a href="https://lucas-josephh.github.io/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
