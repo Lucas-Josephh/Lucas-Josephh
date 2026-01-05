@@ -63,6 +63,11 @@
   Développement complet des fonctionnalité d'inscription aux tournois et aux partages d'évènements & photos
   🔧 Tech : Angular
 
+🚀 Lumen
+👉 Jeu vidéo RPG semi 2D open world. Quêtes, monstres, equipement, boss, exploration seront le quotidien des
+joueur qui oseront s'aventurer dans l'univers du Lumen.
+🔧 Tech : Java, LibGDX
+
 ---
 
 ## 📊 Statistiques GitHub
