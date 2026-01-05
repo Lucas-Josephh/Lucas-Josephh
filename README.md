@@ -60,12 +60,12 @@
 
 - 🔥 **Nom du projet 1**  
   👉 Refonte du site web du club de tennis de table de Perpignan Roussillon Tennis de Table.
-  Développement complet des fonctionnalité d'inscription aux tournois et aux partages d'évènements & photos  
+      Développement complet des fonctionnalité d'inscription aux tournois et aux partages d'évènements & photos  
   🔧 Tech : Angular
 
 - 🚀 **Nom du projet 2**  
   👉 Jeu vidéo RPG semi 2D open world. Quêtes, monstres, equipement, boss, exploration seront le quotidien des
-  joueur qui oseront s'aventurer dans l'univers du Lumen.  
+      joueur qui oseront s'aventurer dans l'univers du Lumen.  
   🔧 Tech : Java, LibGDX
 
 ---
