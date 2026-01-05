@@ -92,11 +92,11 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://discordapp.com/users/123456789012345678">
+   <a href="https://discordapp.com/users/435106327572905984">Discord</a>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/ton-profil-linkedin">
+  <a href="https://www.linkedin.com/in/lucas-joseph-8b8472374">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
