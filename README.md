@@ -88,7 +88,7 @@
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="mailto:tonmail@example.com">
+  <a href="mailto:lucasjo661@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
