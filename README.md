@@ -37,7 +37,7 @@
 ### 🔹 Langages
 <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,js,php,java,cpp,c,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,js,typescript,php,java,cpp,c,arduino" />
   </a>
 </p>
 
