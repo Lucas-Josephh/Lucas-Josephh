@@ -11,11 +11,15 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucas-josephh&label=Visites%20du%20profil&color=0e75b6&style=flat" alt="profile views" />
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=lucas-josephh&label=Visites%20du%20profil&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Développeur+passionné;Créateur+de+projets+concrets;Toujours+en+apprentissage" />
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Développeur+passionné;Créateur+de+projets+concrets;Toujours+en+apprentissage" />
+  </a>
 </p>
 
 ---
