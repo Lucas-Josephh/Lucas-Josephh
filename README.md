@@ -57,15 +57,6 @@
 
 ---
 
-## 📖 En train d'apprendre
-<p>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=symfony" />
-  </a>
-</p>
-    
----
-
 ## 📌 Projets en cours
 
 🚧 **Actuellement en développement :**
