@@ -1,38 +1,23 @@
-<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header"/>
-</p>
-
-<!-- STATS PRINCIPALES -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Josephh&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Josephh&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Josephh&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-Josephh"/>
 </p>
 
-<!-- LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Josephh&layout=compact&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-Josephh"/>
 </p>
 
-<!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Josephh&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucas-Josephh&utcOffset=1"/>
 </p>
 
-<!-- TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucas-Josephh&no-frame=true&no-bg=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-Josephh"/>
 </p>
 
-<!-- METRICS -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/Lucas-Josephh?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&followup=1"/>
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucas-Josephh"/>
 </p>
