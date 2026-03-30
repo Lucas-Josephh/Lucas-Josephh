@@ -1,51 +1,38 @@
-# 👋 Salut, moi c’est [Ton Nom]
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header"/>
+</p>
 
-Développeur passionné par la création de projets utiles, performants et bien structurés.
+<!-- STATS PRINCIPALES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Josephh&show_icons=true&hide_border=true&count_private=true"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Josephh&hide_border=true"/>
+</p>
 
-## 🚀 À propos de moi
+<!-- LANGUAGES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Josephh&layout=compact&hide_border=true"/>
+</p>
 
-- 💡 J’aime résoudre des problèmes complexes avec des solutions simples
-- ⚙️ Axé sur la performance et la qualité du code
-- 📚 Toujours en train d’apprendre et d’améliorer mes compétences
-- 🔨 Je build des projets concrets et utiles
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Josephh&hide_border=true"/>
+</p>
 
----
+<!-- TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucas-Josephh&no-frame=true&no-bg=true"/>
+</p>
 
-## 📊 Stats GitHub
+<!-- METRICS -->
+<p align="center">
+  <img src="https://metrics.lecoq.io/Lucas-Josephh?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&followup=1"/>
+</p>
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TON_USERNAME&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Activité & métriques intéressantes
-
-- 🔥 Série de commits (streak)
-- 📦 Contributions totales
-- 🧠 Langages les plus utilisés
-- ⚡ Activité récente
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=tokyo-night)
-
-</div>
-
----
-
-## 🛠️ Stack technique
-
-```text
-Langages : JavaScript / Python / ...
-Frontend : React / Vue / ...
-Backend  : Node.js / Django / ...
-Outils   : Git / Docker / ...
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+</p>
