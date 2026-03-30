@@ -1,62 +1,51 @@
-<!-- ========================= -->
+# 👋 Salut, moi c’est [Ton Nom]
 
-<!--        README DEV         -->
-
-<!-- ========================= -->
-
-<h1 align="center">Lucas Joseph</h1>
-
-<p align="center">
-  <a href="https://github.com/lucas-josephh">
-    <img src="https://komarev.com/ghpvc/?username=lucas-josephh&style=flat-square&color=blue" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Building...;Shipping...;Breaking...;Fixing..." />
-</p>
+Développeur passionné par la création de projets utiles, performants et bien structurés.
 
 ---
 
-## ⚡ Activity
+## 🚀 À propos de moi
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lucas-josephh&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucas-josephh&theme=tokyo-night&hide_border=true" />
-</p>
+- 💡 J’aime résoudre des problèmes complexes avec des solutions simples
+- ⚙️ Axé sur la performance et la qualité du code
+- 📚 Toujours en train d’apprendre et d’améliorer mes compétences
+- 🔨 Je build des projets concrets et utiles
 
 ---
 
-## 📊 Stats
+## 📊 Stats GitHub
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lucas-josephh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-josephh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
 
-## 📌 Highlight
+![GitHub Streak](https://streak-stats.demolab.com?user=TON_USERNAME&theme=tokyonight)
 
-<p align="center">
-  → Check pinned repositories below ↓
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-## 🌐
+## 📈 Activité & métriques intéressantes
 
-<p align="center">
-  <a href="mailto:lucasjo661@gmail.com">mail</a> •
-  <a href="https://www.linkedin.com/in/lucas-joseph-8b8472374">linkedin</a> •
-  <a href="https://lucas-josephh.github.io/portfolio">portfolio</a>
-</p>
+- 🔥 Série de commits (streak)
+- 📦 Contributions totales
+- 🧠 Langages les plus utilisés
+- ⚡ Activité récente
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=tokyo-night)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
-</p>
+## 🛠️ Stack technique
+
+```text
+Langages : JavaScript / Python / ...
+Frontend : React / Vue / ...
+Backend  : Node.js / Django / ...
+Outils   : Git / Docker / ...
