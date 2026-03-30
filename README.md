@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-Josephh"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucas-Josephh"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Josephh&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-Josephh"/>
 </p>
